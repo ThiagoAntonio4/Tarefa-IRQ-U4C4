@@ -33,4 +33,4 @@ A partir daqui, seu firmware já está compilado e pronto para uso.
 
 ## Vídeo de demonstração 
 
-Clique em ***[link do video](https://youtu.be/PBIahsWWTp4?si=qs6VQHHsYKKJkBPD)*** para visualizar o vídeo ensaio do projeto.
+Clique em ***[link do video](https://youtu.be/_G3-QFPN8d4)*** para visualizar o vídeo ensaio do projeto.
