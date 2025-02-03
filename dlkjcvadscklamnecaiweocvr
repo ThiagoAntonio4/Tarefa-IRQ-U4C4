@@ -1,0 +1,267 @@
+[33mcommit 77cd393f3e1edbb65a902ee3027ac3167b2fa7d3[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Thiago Antonio <thiagoamcmacedo1@gmail.com>
+Date:   Sun Feb 2 22:37:02 2025 -0300
+
+    Código finalizado
+
+[33mcommit fcfc1caec92c302d33fc13494d8b3a72557d805d[m
+Author: Kauan Souza Teles <kauansouzateles00@gmail.com>
+Date:   Tue Jan 28 22:37:25 2025 -0300
+
+    adicionado link do video
+
+[33mcommit bb50097dc7561ff18b76e73f33d95bd672e878bf[m
+Author: Ronaldo César <ronaldocesar521@gmail.com>
+Date:   Tue Jan 28 21:43:33 2025 -0300
+
+    Update README.md
+
+[33mcommit c9e27399ae38c07561bf397e82745fd8f1e838fb[m
+Merge: ebd1138 e454b3e
+Author: Kauan Souza Teles <kauansouzateles00@gmail.com>
+Date:   Tue Jan 28 21:31:54 2025 -0300
+
+    Merge pull request #12 from Kauanteles/Ondas-crescentes-tecla-6
+    
+    animação ondas crescentes
+
+[33mcommit e454b3e550c5682c0f80f5230c939ace92d0a928[m
+Merge: 4a90a0b ebd1138
+Author: Kauan Souza Teles <kauansouzateles00@gmail.com>
+Date:   Tue Jan 28 21:31:32 2025 -0300
+
+    Merge branch 'main' into Ondas-crescentes-tecla-6
+
+[33mcommit ebd113854a185a38cd4e5e79ede5103793aca944[m
+Merge: 34e6bab c707235
+Author: Kauan Souza Teles <kauansouzateles00@gmail.com>
+Date:   Tue Jan 28 21:26:26 2025 -0300
+
+    Merge pull request #11 from Kauanteles/Feature/tecla-5
+    
+    Feature/tecla 5
+
+[33mcommit c707235cd62cb453d7d486a897e708916c226287[m
+Merge: 2624c68 34e6bab
+Author: Kauan Souza Teles <kauansouzateles00@gmail.com>
+Date:   Tue Jan 28 21:26:14 2025 -0300
+
+    Merge branch 'main' into Feature/tecla-5
+
+[33mcommit 34e6bab969a10aeed2129d22737a3d138cf75b8a[m
+Merge: 25a2b2f efba295
+Author: Kauan Souza Teles <kauansouzateles00@gmail.com>
+Date:   Tue Jan 28 21:14:21 2025 -0300
+
+    Merge pull request #10 from Kauanteles/Documentation/add-readme
+    
+    Feat: add readme
+
+[33mcommit 25a2b2fa14a33db6312abeb22dbdb105876d0719[m
+Merge: af5103d 47495fb
+Author: Kauan Souza Teles <kauansouzateles00@gmail.com>
+Date:   Tue Jan 28 21:13:16 2025 -0300
+
+    Merge pull request #9 from Kauanteles/Feature/tecla-9
+    
+    Feature/tecla 9
+
+[33mcommit 4a90a0be39888837259a2cc720f455d8e4fa64b2[m
+Author: Letgandrade <andradeleticia.g6@gmail.com>
+Date:   Tue Jan 28 20:51:49 2025 -0300
+
+    animação ondas crescentes
+
+[33mcommit 2624c681e25c915b65552cbf91c6014a52f37a45[m
+Author: Thiago Antonio <thiagoamcmacedo1@gmail.com>
+Date:   Tue Jan 28 20:34:08 2025 -0300
+
+    alterações revertidas nos arquivos .json na pasta .vscode
+
+[33mcommit ba096feaae21aa177b88d8bda5d3313074c0db53[m
+Author: Thiago Antonio <thiagoamcmacedo1@gmail.com>
+Date:   Tue Jan 28 20:22:06 2025 -0300
+
+    Animação da letra e adicionada na tecla 5
+
+[33mcommit efba2959ddc2a41e508ea12b9ee4716373ed0eae[m
+Author: Mateus F Santos <ferrmathh2@gmail.com>
+Date:   Tue Jan 28 20:12:13 2025 -0300
+
+    Feat: add readme
+
+[33mcommit 47495fb1eb6bb70986bd4047d4b929b1a6b6ac2f[m
+Author: Mateus F Santos <ferrmathh2@gmail.com>
+Date:   Tue Jan 28 19:54:51 2025 -0300
+
+    feat: func para animacao da tecla 9
+
+[33mcommit c36f342db8d7a73f6150faf3ecb96b2e96d397dc[m
+Author: Mateus F Santos <ferrmathh2@gmail.com>
+Date:   Tue Jan 28 19:54:24 2025 -0300
+
+    feat: animacao na tecla 9
+
+[33mcommit af5103d05c0951451910a21f36fbb5aed1fe697a[m
+Merge: 37d5617 c09529a
+Author: Kauan Souza Teles <kauansouzateles00@gmail.com>
+Date:   Mon Jan 27 18:27:23 2025 -0300
+
+    Merge pull request #8 from Kauanteles/feature/timer_matriz_led
+    
+    adicionando timer de 1 a 9 ao apertar "4"
+
+[33mcommit c09529a4027061e7fecd18fac9e636799d9278b9[m
+Author: REISENBERG77 <carvalhoreiseduardo815@gmail.com>
+Date:   Mon Jan 27 18:22:35 2025 -0300
+
+    adicionando timer de 1 a 9 ao apertar "4"
+
+[33mcommit 37d5617b499cf0dcd3468510a1a23f9047b1a0fe[m
+Merge: 9563f8a fc19aa4
+Author: Kauan Souza Teles <kauansouzateles00@gmail.com>
+Date:   Mon Jan 27 03:24:45 2025 -0300
+
+    Merge pull request #7 from Kauanteles/TeclaC
+    
+    adicionada animação da cobra
+
+[33mcommit fc19aa44616b38b9b2f261967fec0899b74bd729[m
+Author: Kauan Souza Teles <kauansouzateles00@gmail.com>
+Date:   Mon Jan 27 03:23:12 2025 -0300
+
+    animação da cobra
+
+[33mcommit 9563f8ad3584cc2a4e79c8337d321a2161d14712[m
+Merge: a831f99 46be5e4
+Author: Kauan Souza Teles <kauansouzateles00@gmail.com>
+Date:   Sun Jan 26 16:44:50 2025 -0300
+
+    Merge pull request #6 from Kauanteles/TeclaC
+    
+    adicionada opção de ligar os leds vermelhos em 80% de intensidade
+
+[33mcommit 46be5e47282bbd1d51ee782d231565608f4e5304[m
+Author: Kauan Souza Teles <kauansouzateles00@gmail.com>
+Date:   Sun Jan 26 16:42:17 2025 -0300
+
+    adicionada opção de ligar os leds vermelhos em 80% de intensidade
+
+[33mcommit a831f99ab9b20dccebd73a9679a53fef25d21559[m
+Merge: 5faf4ab 6968210
+Author: Kauan Souza Teles <kauansouzateles00@gmail.com>
+Date:   Sun Jan 26 15:12:27 2025 -0300
+
+    Merge pull request #5 from Kauanteles/feature/tecla2
+    
+    adicionado função de animação para a tecla 2
+
+[33mcommit 6968210196640dd322e9395b020583070bf7d8f6[m
+Merge: a5d82d1 5faf4ab
+Author: Kauan Souza Teles <kauansouzateles00@gmail.com>
+Date:   Sun Jan 26 15:11:36 2025 -0300
+
+    Merge branch 'main' into feature/tecla2
+
+[33mcommit 5faf4abf6027731c3b5e77763bb367d9bc8596a5[m
+Author: Kauan Souza Teles <kauansouzateles00@gmail.com>
+Date:   Sun Jan 26 14:21:54 2025 -0300
+
+    correção do caso verde
+
+[33mcommit 4ace472a95e410189d2b7414a4cad67fcd184644[m
+Merge: c6089e6 393af3b
+Author: Kauan Souza Teles <kauansouzateles00@gmail.com>
+Date:   Sun Jan 26 14:12:03 2025 -0300
+
+    Merge pull request #4 from Kauanteles/Feature/tecla-D
+    
+    feat: adiciona func para tecla D no switch
+
+[33mcommit 393af3bf636a39af990245a1418b7fed3d601b0c[m
+Merge: 0a19885 c6089e6
+Author: Kauan Souza Teles <kauansouzateles00@gmail.com>
+Date:   Sun Jan 26 14:11:50 2025 -0300
+
+    Merge branch 'main' into Feature/tecla-D
+
+[33mcommit c6089e6bb5a54e7d06d7938b822577443eeb0d2a[m
+Merge: e8a2c69 ab6ec37
+Author: Kauan Souza Teles <kauansouzateles00@gmail.com>
+Date:   Sun Jan 26 13:56:16 2025 -0300
+
+    Merge pull request #3 from Kauanteles/Feature/tecla-#
+    
+    feat: adiciona func para tecla # no switch
+
+[33mcommit e8a2c69d3e72d8419dbf5743d1643b271408b24c[m
+Merge: e7473e6 3692002
+Author: Kauan Souza Teles <kauansouzateles00@gmail.com>
+Date:   Sun Jan 26 13:55:42 2025 -0300
+
+    Merge pull request #2 from Kauanteles/Feature/tecla-0
+    
+    Feature/tecla 0
+
+[33mcommit 0a198852beca2e5c65d42a6f92f830364e609cc4[m
+Author: Mateus F Santos <ferrmathh2@gmail.com>
+Date:   Sun Jan 26 12:34:35 2025 -0300
+
+    feat: adiciona func para tecla D no switch
+
+[33mcommit ab6ec375733ddce676cbc5818be6c392119a4160[m
+Author: Mateus F Santos <ferrmathh2@gmail.com>
+Date:   Sun Jan 26 12:31:25 2025 -0300
+
+    feat: adiciona func para tecla # no switch
+
+[33mcommit a5d82d13f7d510b556a7a50f161ea090cadc1f9a[m
+Author: WillianCesar786 <williancesardesousa6773@gmail.com>
+Date:   Sun Jan 26 12:26:45 2025 -0300
+
+    adicionado função de animação para a tecla 2
+
+[33mcommit 3692002882083cd92940440d437152e69f0c7f84[m
+Author: Mateus F Santos <ferrmathh2@gmail.com>
+Date:   Sun Jan 26 12:22:29 2025 -0300
+
+    feat: add animacao 0 no switch
+
+[33mcommit 9de775b785578bc97d7d3481b29f7f0aef356d9f[m
+Author: Mateus F Santos <ferrmathh2@gmail.com>
+Date:   Sun Jan 26 12:21:28 2025 -0300
+
+    feat: func para animação de rosto
+
+[33mcommit 112c7d58e3c513d5d8a4b41681d2beb828039215[m
+Author: Mateus F Santos <ferrmathh2@gmail.com>
+Date:   Sun Jan 26 12:20:44 2025 -0300
+
+    feat: struct para frames da cena
+
+[33mcommit e7473e6aeecfa422cef9883e451c347290b9694a[m
+Merge: 1ea80b4 ddb767b
+Author: Ronaldo César <ronaldocesar521@gmail.com>
+Date:   Sun Jan 26 07:48:08 2025 -0300
+
+    Merge pull request #1 from Kauanteles/TeclaB
+    
+    Novo comando para Tecla B
+
+[33mcommit ddb767b45fb21f75a81ddd99f4423ba3f909680d[m
+Author: Ronaldo8617 <ronaldocesar521@gmail.com>
+Date:   Sun Jan 26 07:39:46 2025 -0300
+
+    Novo comando para Tecla B
+
+[33mcommit 1ea80b42274f31ae0abab496c417fc2ed0f725eb[m
+Author: Ronaldo8617 <ronaldocesar521@gmail.com>
+Date:   Sun Jan 26 00:26:28 2025 -0300
+
+    Tecla '1' e 'A'
+
+[33mcommit c6c40f547b01876d7cd47bef461d435144ac3108[m
+Author: Kauan Souza Teles <kauansouzateles00@gmail.com>
+Date:   Sat Jan 25 17:44:36 2025 -0300
+
+    Initial commit
